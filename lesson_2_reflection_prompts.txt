@@ -1,0 +1,2 @@
+git init   - create new repository and contains all files in the same directories
+git status - check the current status of the repository
